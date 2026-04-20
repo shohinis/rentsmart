@@ -12,3 +12,4 @@ rs_with_census.csv
 1970-to-1979.csv
 1980-to-1999.csv
 2000-to-2019.csv
+*.csv
